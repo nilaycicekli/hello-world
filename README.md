@@ -5,6 +5,6 @@ I am a cheerful and energetic person who gets bored easily. So I find activities
 
 If you are interested, check out my portfolio [website](http://www.nilaycicekli.com).
 
-I am also an amateur photographer. Since you are here, you might want to take a look at my [photos too](www.intagram.com/flowmooni/).
+I am also an amateur photographer. Since you are here, you might want to take a look at my [photos too](http://www.intagram.com/flowmooni/).
 
 If you are interested in my skills and work, don't be shy to get in touch with me! That is all for now, take care!
