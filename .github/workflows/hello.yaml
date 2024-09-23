@@ -9,7 +9,6 @@ jobs:
     uses: nilaycicekli/gh-actions/.github/workflows/reusable-hello.yaml@main
     with:
       environment: "dev"
-      app-name: ${{ vars.APP_NAME }}
     secrets: inherit
     permissions:
       contents: read
