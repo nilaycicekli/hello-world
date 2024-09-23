@@ -8,7 +8,7 @@ jobs:
     name: Hello World
     uses: nilaycicekli/gh-actions/.github/workflows/reusable-hello.yaml@main
     with:
-      environment: "dev"
+      environment: "prod"
     secrets: inherit
     permissions:
       contents: read
